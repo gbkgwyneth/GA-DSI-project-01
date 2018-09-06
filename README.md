@@ -1,6 +1,6 @@
 # GA-DSI-project-01
 
-# ![]Project 1: Standardized Testing, Statistical Summaries and Inference
+# Project 1: Standardized Testing, Statistical Summaries and Inference
 
 
 ### Overview
